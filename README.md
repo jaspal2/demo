@@ -8,3 +8,4 @@ Making further changes to this file
 Adding new line to check if git diff works or not
 
 Something bad is going to happen for sure!
+Is it?
