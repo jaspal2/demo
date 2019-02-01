@@ -9,3 +9,5 @@ Adding new line to check if git diff works or not
 
 Tackling bad!
 Really?
+
+checking Git statshing
