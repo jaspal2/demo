@@ -11,3 +11,6 @@ Tackling bad!
 Really?
 
 checking Git statshing
+
+
+Git Reset- Before
