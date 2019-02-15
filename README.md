@@ -14,3 +14,6 @@ checking Git statshing
 
 
 Git Reset- Before
+
+After reset
+
