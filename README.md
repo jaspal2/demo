@@ -17,3 +17,5 @@ Git Reset- Before
 
 After reset
 
+
+Again before reset
